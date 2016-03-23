@@ -5,11 +5,10 @@ Oneliners
 Instructions
 ------------
 
-### OpenStack PackStack all-in-one
-
-```
-curl -sSL https://raw.githubusercontent.com/gbraad/oneliners/master/install_packstack.sh | bash
-```
+   * OpenStack PackStack all-in-one  
+     `curl -sSL https://raw.githubusercontent.com/gbraad/oneliners/master/install_packstack.sh | bash`
+   * Cloud9IDE SDK / local install 
+     `curl -sSL https://raw.githubusercontent.com/gbraad/oneliners/master/install_c9.sh | bash`
 
 
 Authors
