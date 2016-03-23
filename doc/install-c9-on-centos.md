@@ -4,14 +4,7 @@ Install C9 on CentOS as SSH remote workspace
 To setup a SSH remote workspace for C9 on CentOS do the following on the host:
 
 ```bash
-yum install git
-yum groupinstall "Development Tools"
-yum install glibc-static
-yum install tmux # or let it build a version
-
-git clone https://github.com/c9/core.git /opt/c9sdk
-cd /opt/c9sdk/scripts
-./install-sdk.sh
+curl -sSL https://raw.githubusercontent.com/gbraad/oneliners/master/install_c9.sh | bash
 ```
 
 Go to http://c9.io/new and select SSH workspace.
