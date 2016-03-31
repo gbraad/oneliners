@@ -9,6 +9,8 @@ Instructions
      `curl -sSL https://raw.githubusercontent.com/gbraad/oneliners/master/install_packstack.sh | bash`
    * Cloud9IDE SDK / local install  
      `curl -sSL https://raw.githubusercontent.com/gbraad/oneliners/master/install_c9.sh | bash`
+   * WeIRDO Packstack scenario   
+     `curl -sSL https://raw.githubusercontent.com/gbraad/oneliners/master/run_weirdo_packstack_scenario001.sh | bash`
 
 
 Authors
