@@ -2,6 +2,12 @@ Oneliners
 =========
 
 
+A collection of scripts to install oft-used tools and utilities on CentOS/Fedora.
+
+Some of the scripts support Ubuntu/Debian, because of usage on [C9](https://c9.io).
+Also have a look at the [Ansible playbooks](https://github.com/gbraad/ansible-playbooks) which are based
+on these scripts (and support Ubuntu/Debian).
+
 Instructions
 ------------
 
